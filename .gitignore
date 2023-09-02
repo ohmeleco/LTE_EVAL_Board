@@ -49,8 +49,6 @@ Debug/*
 Release/*
 Core/Startup/*
 .settings/*
-*.mxproject
-*.mxproject
 *.ld
 *.cproject
 *.project
